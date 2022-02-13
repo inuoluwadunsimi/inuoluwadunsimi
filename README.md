@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @inuoluwadunsimi
-- 👀 I am a react front-end developer driving towards fullstack development. I currently work majorly with react(front-end),css,tailwindcss& styled components(styling). I am currently learning golang for backend development.
--I am open to hiring and other forms of collaborations
+Hi, I’m @inuoluwadunsimi
+ I am a react front-end developer driving towards fullstack development. I currently work majorly with react(front-end),css,tailwindcss& styled components(styling). I am currently learning golang for backend development.
+I am open to hiring and other forms of collaborations
 
-- 
-- 📫 Twitter: @Inuoluwadunsiml
--  mail:danielolaoladeinde@gmail.com
--  website: in progress....
+
+Want to reach me? Twitter: @Inuoluwadunsiml
+ mail:danielolaoladeinde@gmail.com
+ website: in progress....
 
 <!---
 inuoluwadunsimi/inuoluwadunsimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
