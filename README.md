@@ -5,6 +5,7 @@ I am open to hiring and other forms of collaborations
 
 Want to reach me? Twitter: @Inuoluwadunsiml
  mail:danielolaoladeinde@gmail.com
+LinkedIn : Inuoluwadunsimi Ola-oladeinde 
  website: in progress....
 
 <!---
