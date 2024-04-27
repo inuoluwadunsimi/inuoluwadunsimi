@@ -37,11 +37,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m a Software engineer focusing on building secure and scalable backend systems.
+- :telescope: I focus on building secure and scalable backend systems.
 
-- :anchore:  I am interested in distributed systems and microservices and have a flair for cloud technologies.
+- :anchor:  I am interested in distributed systems and microservices and have a flair for cloud technologies.
 
 - :seedling: I am keenly interested in finance, financial technologies, tech-enabled traditional businesses, and  startups.
 
