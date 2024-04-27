@@ -10,7 +10,7 @@
   <a href="https://medium.com/@danielolaoladeinde">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://twitter.com/Inuoluwadunsim_">
+  <a href="https://twitter.com/thheOracle">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://www.instagram.com/inuoluwadunsimi_/">
@@ -39,11 +39,13 @@
 ### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and upskilling on my knowledge of the backend with nodejs(typescript), postgresql and mongodb.
+- :telescope: I’m a Software engineer focusing on building secure and scalable backend systems.
 
-- :seedling: I have keen interest in finance, financial technologies and startups..
+- :anchore:  I am interested in distributed systems and microservices and have a flair for cloud technologies.
 
-- :zap: In my free time, I write about different things on medium and also explore my love for books..
+- :seedling: I am keenly interested in finance, financial technologies, tech-enabled traditional businesses, and  startups.
+
+- :zap: In my free time, I write about different things on medium and also explore my love for books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Inuoluwadunsimi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inuoluwadunsimi-ola-oladeinde-1318b621a/)
 
