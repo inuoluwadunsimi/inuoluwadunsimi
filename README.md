@@ -43,11 +43,13 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :anchor:  I am interested in distributed systems and microservices and have a flair for cloud technologies.
 
-- :seedling: I am keenly interested in finance, financial technologies, tech-enabled traditional businesses, and  startups.
+- :seedling: I am keenly interested in finance, tech-enabled traditional businesses, and  startups.
 
 - :zap: In my free time, I write about different things on medium and also explore my love for books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Inuoluwadunsimi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inuoluwadunsimi-ola-oladeinde-1318b621a/)
+
+- :blue_book: Check out my blog on: [![blog](https://img.shields.io/badge/my%20blog-8A2BE2)](https://blog.inuoluwadunsimi.xyz)
 
 ---
 
